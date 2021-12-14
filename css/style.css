@@ -1,7 +1,10 @@
 @import url('/css/global/global.css');
 @import url('/css/util/tipografia.css');
 @import url('/css/util/cores.css');
+
 @import url('/css/global/header.css');
+@import url('/css/global/footer.css');
+
 
 /* Ultilidades */
 @import url('/css/util/componentes.css');
