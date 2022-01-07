@@ -16,6 +16,8 @@
   text-transform: uppercase;
   font: 600 1.125/1.5 "Poppins", sans-serif;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 .link {
   display: inline-block;
